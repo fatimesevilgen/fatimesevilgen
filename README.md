@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Fatime</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatimesevilgen&label=Profile%20views&color=0e75b6&style=flat" alt="fatimesevilgen" /> </p>
-<img  align="right" height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmwwbTFwZjdia2RxaXp4NG1naHl1Y2YzMmFpN2xmZWNubWJvbHp1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp"  />
+<img  align="right" height="300" src="https://media.tenor.com/PnMX9-9GDMEAAAAi/work-computer.gif"  />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
