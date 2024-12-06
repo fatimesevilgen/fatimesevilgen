@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Fatime</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatimesevilgen&label=Profile%20views&color=0e75b6&style=flat" alt="fatimesevilgen" /> </p>
-<img  align="right" height="50%" src="https://media.tenor.com/PnMX9-9GDMEAAAAi/work-computer.gif"  />
+<img  align="right" height="50vh" src="https://media.tenor.com/PnMX9-9GDMEAAAAi/work-computer.gif"  />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
