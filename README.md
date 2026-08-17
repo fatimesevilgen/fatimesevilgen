@@ -1,52 +1,125 @@
-<h1 align="left">Hi 👋, I'm Fatime</h1>
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=fatimesevilgen&label=Profile%20views&color=0e75b6&style=flat" alt="fatimesevilgen" /> 
-</p>
+<div align="center">
 
-<h3 align="left">🚀 About Me:</h3>
-<p align="left">
-I am a 4th year Computer Engineering student passionate about Backend Development and Artificial Intelligence.  
-I work with <b>.NET Core, Spring Boot, and AI/ML frameworks</b> to build scalable applications and intelligent systems.  
-I also enjoy sharing knowledge on Medium and contributing to innovative projects.  
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6dd5fa&height=220&section=header&text=Merhaba,%20Ben%20Fatime!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=650&lines=Merhaba+%F0%9F%91%8B+Ben+Fatime;4.+S%C4%B1n%C4%B1f+Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisiyim;.NET+Core+%26+Spring+Boot+ile+%C3%A7al%C4%B1%C5%9F%C4%B1yorum;AI+%2F+ML+Alan%C4%B1na+Tutkuyla+Ba%C4%9Fl%C4%B1y%C4%B1m;Backend+Geli%C5%9Ftirme+A%C5%9F%C4%B1%C4%B1m%C4%B1m+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=fatimesevilgen&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="fatimesevilgen" />&nbsp;
+<img src="https://img.shields.io/github/followers/fatimesevilgen?label=Followers&style=for-the-badge&color=0e75b6" alt="followers"/>&nbsp;
+<img src="https://img.shields.io/badge/Status-Actively%20Learning-6dd5fa?style=for-the-badge" alt="status"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+
+## 🚀 Hakkımda
+
+<img align="right" width="380" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vscode-Dark.svg" alt="coding gif" />
+
+```typescript
+class Fatime {
+  constructor() {
+    this.role = "4th Year Computer Engineering Student";
+    this.focus = ["Backend Development", "Artificial Intelligence"];
+    this.stack = [".NET Core", "Spring Boot", "AI/ML Frameworks"];
+    this.currentlyWriting = "Medium articles ✍️";
+    this.motto = "Always building, always learning 🌱";
+  }
+
+  sayHi() {
+    return "Bu satırları görüyorsan, kod da beni oldukça mutlu ediyor 😄";
+  }
+}
+
+const fatime = new Fatime();
+console.log(fatime.sayHi());
+```
+
+<br clear="right"/>
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-<a href="mailto:fatimesevilgen@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/223047/gmail.svg" alt="email" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fatimesevilgen1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatimesevilgen1" height="30" width="40" /></a>
-<a href="https://medium.com/@fatimesevilgen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fatimesevilgen" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/fatimesevilgen0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fatimesevilgen0" height="30" width="40" /></a>
-<a href="https://leetcode.com/fatimesevilgen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fatimesevilgen" height="30" width="40" /></a>
-</p>
+## 🌐 Bana Ulaşın
+
+<div align="center">
+
+<a href="mailto:fatimesevilgen@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/fatimesevilgen1" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://medium.com/@fatimesevilgen" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+<a href="https://www.hackerrank.com/fatimesevilgen0" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+<a href="https://leetcode.com/fatimesevilgen/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+</div>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
-  <!-- Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  
-  <!-- Frameworks -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="springboot" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-  
-  <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  
-  <!-- AI & ML -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  
-  <!-- DevOps -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  
-  <!-- Others -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</p>
+## 🛠️ Diller & Teknolojiler
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,cs,python,spring,dotnet,postgresql,pytorch,docker,git,html,css&theme=dark" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+![My Skills](https://skillicons.dev/icons?i=idea,vscode,linux,github,postman&theme=dark)
+
+</div>
+
+---
+
+## 📊 GitHub İstatistiklerim
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=fatimesevilgen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=fatimesevilgen&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimesevilgen&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=fatimesevilgen&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
+
+---
+
+## 📈 Katkı Grafiğim (Snake Animation)
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+
+</div>
+
+> 💡 Bu animasyonun kendi profilinde çalışması için `github-contribution-grid-snake` GitHub Action'ını reponda kurman gerekiyor — istersen sana kurulum adımlarını da çıkarabilirim.
+
+---
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+
+<div align="center">
+
+### 💬 "Kod yazmak, düşünceyi çalışan bir gerçekliğe dönüştürmektir."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6dd5fa,100:0e75b6&height=100&section=footer" width="100%"/>
+
+</div>
